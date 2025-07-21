@@ -10,5 +10,4 @@ Proceso General:
 
 ![Demo del proyecto](https://www.youtube.com/watch?v=c8lO1j0Z3co)
 
-![Video con el despliegue](https://www.youtube.com/watch?v=c8lO1j0Z3co)
 
