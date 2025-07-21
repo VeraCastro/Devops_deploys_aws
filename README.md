@@ -7,7 +7,6 @@ Proceso General:
 3.	Crear el proyecto de terraform
 4.	Agregar y editar el archivo main.tf
 
-
-
+![Demo del proyecto](https://www.youtube.com/watch?v=c8lO1j0Z3co)
 
 
