@@ -8,7 +8,7 @@ Proceso General:
 4.	Agregar y editar el archivo main.tf
 
 
-[![Demo del proyecto](a0ogtg.gif)](https://www.youtube.com/watch?v=c8lO1j0Z3co)
+![Demo del proyecto](https://www.youtube.com/watch?v=c8lO1j0Z3co)
 
 ![Video con el despliegue](https://www.youtube.com/watch?v=c8lO1j0Z3co)
 
